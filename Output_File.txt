@@ -1,0 +1,3 @@
+Output File 'hand_gesture_model.h5':
+
+https://drive.google.com/file/d/1oB8ZBNBMPXlxoEc2L2IxM5uEsVaEp_kd/view?usp=drive_link
