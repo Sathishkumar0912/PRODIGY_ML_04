@@ -1,0 +1,22 @@
+Epoch 1/10
+62/62 ━━━━━━━━━━━━━━━━━━━━ 107s 2s/step - accuracy: 0.4168 - loss: 1.6976 - val_accuracy: 0.5781 - val_loss: 1.6510
+Epoch 2/10
+ 1/62 ━━━━━━━━━━━━━━━━━━━━ 11s 185ms/step - accuracy: 0.9375 - loss: 0.2384C:\Users\sathi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\keras\src\trainers\epoch_iterator.py:107: UserWarning: Your input ran out of data; interrupting training. Make sure that your dataset or generator can generate at least `steps_per_epoch * epochs` batches. You may need to use the `.repeat()` function when building your dataset.
+  self._interrupted_warning()
+62/62 ━━━━━━━━━━━━━━━━━━━━ 5s 82ms/step - accuracy: 0.9375 - loss: 0.2384 - val_accuracy: 0.5872 - val_loss: 1.6643
+Epoch 3/10
+62/62 ━━━━━━━━━━━━━━━━━━━━ 39s 630ms/step - accuracy: 0.9419 - loss: 0.1764 - val_accuracy: 0.5076 - val_loss: 2.1570
+Epoch 4/10
+62/62 ━━━━━━━━━━━━━━━━━━━━ 6s 88ms/step - accuracy: 0.9688 - loss: 0.0713 - val_accuracy: 0.5101 - val_loss: 2.2325
+Epoch 5/10
+62/62 ━━━━━━━━━━━━━━━━━━━━ 21s 342ms/step - accuracy: 0.9693 - loss: 0.1002 - val_accuracy: 0.4637 - val_loss: 2.7853
+Epoch 6/10
+62/62 ━━━━━━━━━━━━━━━━━━━━ 5s 83ms/step - accuracy: 0.9375 - loss: 0.1715 - val_accuracy: 0.5333 - val_loss: 2.4332
+Epoch 7/10
+62/62 ━━━━━━━━━━━━━━━━━━━━ 19s 305ms/step - accuracy: 0.9718 - loss: 0.0809 - val_accuracy: 0.4980 - val_loss: 2.2693
+Epoch 8/10
+62/62 ━━━━━━━━━━━━━━━━━━━━ 5s 79ms/step - accuracy: 0.9688 - loss: 0.0546 - val_accuracy: 0.4829 - val_loss: 2.2454
+Epoch 9/10
+62/62 ━━━━━━━━━━━━━━━━━━━━ 19s 313ms/step - accuracy: 0.9845 - loss: 0.0510 - val_accuracy: 0.5000 - val_loss: 2.4020
+Epoch 10/10
+62/62 ━━━━━━━━━━━━━━━━━━━━ 5s 82ms/step - accuracy: 1.0000 - loss: 0.0128 - val_accuracy: 0.5000 - val_loss: 2.4491
